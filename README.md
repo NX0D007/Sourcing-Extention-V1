@@ -6,6 +6,8 @@ Developed by nX0D007
 
 Sourcing Browser is a lightweight Chrome extension designed to help sourcing professionals, procurement agents, or business developers quickly find supplier information across multiple platforms using just a SIREN/SIRET number or company name.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚙️ Key Features
 
 🔎 Auto-detect input: Smartly distinguishes between SIREN numbers and company names
