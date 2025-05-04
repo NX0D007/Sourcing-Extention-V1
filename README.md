@@ -32,11 +32,15 @@ Google (infonet.fr)
 
 🚀 Use Case Example
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 You're sourcing a supplier, client, or lead. Just enter their:
 
 🔢 SIREN (e.g., 790805030)
 
 🏢 Name (e.g., Nike ) or even small companies names
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The extension opens 5 tabs with everything you need to verify identity, contact info, company scope, and more — within seconds.
 
