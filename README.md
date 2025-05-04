@@ -1,4 +1,4 @@
-                                                                                        🔍 Sourcing Browser — Chrome Extension
+🔍 Sourcing Browser — Chrome Extension
 
 Developed by nX0D007
 
