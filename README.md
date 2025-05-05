@@ -38,9 +38,9 @@
 
 ---
 
-## 👨‍💻 Developed by
+## 👨‍💻 Developed by **nX0D007**
 
-**nX0D007**      🔗 [LinkedIn – N. Lakhnech](https://www.linkedin.com/in/n-lakhnech/)
+  🔗 [LinkedIn – N. Lakhnech](https://www.linkedin.com/in/n-lakhnech/)
 
 ---
 
