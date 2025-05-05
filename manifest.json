@@ -2,9 +2,13 @@
   "manifest_version": 3,
   "name": "Sourcing Browser",
   "version": "1.0",
-  "description": "Search for companies by SIREN or name across platforms.",
+  "description": "Search companies by SIREN or name.",
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": "icon128.png"
+  },
+  "icons": {
+    "128": "icon128.png"
   },
   "permissions": ["tabs"]
 }
