@@ -1,47 +1,67 @@
-# 🔍 Sourcing Launcher
+# 🔍 SIRET/SIREN Sourcing Launcher – Chrome Extension
 
-**Sourcing Launcher** is a lightweight Chrome extension that helps you instantly search supplier/company data across multiple French business platforms using just a SIREN number or a company name.
-
----
-
-## ⚙️ Features
-
-- ✅ Auto-detects SIREN or name input
-- 🌐 Instantly opens:
-  - Pappers
-  - Societe.com
-  - Pages Jaunes
-  - LinkedIn People Search
-  - Google (Infonet filtered)
-- ⌨️ Launch by **Enter key** or button
-- 🧠 3-second cooldown to avoid multiple triggers
-- 🌓 Auto-supports **light/dark Chrome themes**
-- 📦 No API or backend needed — works offline
+A lightweight Chrome extension that helps sourcing specialists automate lookups of French suppliers using SIRET or SIREN numbers.
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Features
 
-- HTML5 / CSS3 (w/ `prefers-color-scheme`)
-- JavaScript (Vanilla)
-- Chrome Extensions Manifest V3
-
----
-
-## 🚀 Installation
-
-1. Download or clone this folder  
-2. Open `chrome://extensions/`  
-3. Enable **Developer Mode**  
-4. Click **Load unpacked** and select the project folder  
-5. Click the extension icon → enter a company name or SIREN to launch search
+- 🎯 Launches multiple sourcing websites (Corporama, Infonet, Selligent, etc.) instantly using a single SIRET or SIREN input.
+- 🧩 Minimal UI: overlays a clean input bar directly on any webpage.
+- 🇫🇷 Designed for French suppliers only (mainland – excludes DOM-TOM).
+- 🔐 Fully local – no data is stored or sent anywhere.
+- ⚡ Speeds up verification of wholesalers, retailers, and manufacturers.
 
 ---
 
-## 👨‍💻 Developed by **nX0D007**
+## 🎯 Who is this for?
 
-  🔗 [LinkedIn – N. Lakhnech](https://www.linkedin.com/in/n-lakhnech/)
+- Sourcing specialists (sourceurs)
+- Purchasing agents (acheteurs)
+- Business developers working with French markets
+- Teams using tools like Corporama + Selligent CRM
 
 ---
 
-> 🧠 *Built to streamline sourcing workflows and make life easier for buyers, lead gen agents, and prospect researchers.*
+## 🚫 What it's **not** for
+
+- Service providers  
+- Central purchasing organizations  
+- Non-French or DOM-TOM based companies
+
+---
+
+## 📸 Preview
+
+> _Coming soon: GIF showing real-time supplier lookup across tabs_
+
+---
+
+## 🛠 How to Use
+
+1. Clone or download the repo.
+2. Go to `chrome://extensions` and enable **Developer Mode**.
+3. Click **Load unpacked** and select the extension folder.
+4. Click the extension icon (🔍) and enter a **SIRET or SIREN**.
+5. Watch it open all lookup tabs automatically.
+
+---
+
+## 🧪 Built With
+
+- JavaScript / Manifest v3
+- Simple popup HTML interface
+- Zero dependencies
+
+---
+
+## 🤝 Credits
+
+Developed by [@nX0D007 (N. Lakhnech)](https://www.linkedin.com/in/n-lakhnech)
+
+---
+
+## 📬 Want to contribute?
+
+Open to suggestions or feature requests — feel free to fork or contact me on LinkedIn.
+
