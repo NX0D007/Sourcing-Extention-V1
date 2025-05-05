@@ -40,8 +40,7 @@
 
 ## 👨‍💻 Developed by
 
-**nX0D007**  
-🔗 [LinkedIn – N. Lakhnech](https://www.linkedin.com/in/n-lakhnech/)
+**nX0D007**      🔗 [LinkedIn – N. Lakhnech](https://www.linkedin.com/in/n-lakhnech/)
 
 ---
 
