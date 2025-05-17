@@ -24,7 +24,7 @@ function lockSearch() {
   searchLocked = true;
   setTimeout(() => {
     searchLocked = false;
-  }, 3000); // lock for 3 seconds max
+  }, 3000);
 }
 
 function launchSearch() {
@@ -43,16 +43,13 @@ function launchSearch() {
     urls = [
       `https://www.pappers.fr/recherche?q=${encoded}`,
       `https://www.societe.com/cgi-bin/search?champs=${encoded}`,
-      `https://www.pagesjaunes.fr/recherche/nom/${encoded}`,
-      `https://www.linkedin.com/search/results/people/?keywords=${encoded}+France`,
       `https://www.google.com/search?q=site:infonet.fr+${encoded}`
     ];
   } else {
     urls = [
       `https://www.pappers.fr/recherche?q=${encoded}`,
-      `https://www.societe.com/cgi-bin/search?champs=${encoded}`,
       `https://www.pagesjaunes.fr/recherche/nom/${encoded}`,
-      `https://www.linkedin.com/search/results/people/?keywords=${encoded}&origin=GLOBAL_SEARCH_HEADER&geoUrn=105015875&hl=fr`,
+      `https://www.linkedin.com/search/results/companies/?keywords=${encoded}`,
       `https://www.google.com/search?q=${encoded}+site:infonet.fr`
     ];
   }
