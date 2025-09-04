@@ -41,15 +41,14 @@ function launchSearch() {
 
   if (isSiren) {
     urls = [
-      `https://www.pappers.fr/recherche?q=${encoded}`,
       `https://www.societe.com/cgi-bin/search?champs=${encoded}`,
       `https://www.google.com/search?q=site:infonet.fr+${encoded}`
     ];
   } else {
     urls = [
-      `https://www.pappers.fr/recherche?q=${encoded}`,
+      `https://www.societe.com/cgi-bin/search?champs=${encoded}`,
       `https://www.pagesjaunes.fr/recherche/nom/${encoded}`,
-      `https://www.linkedin.com/search/results/companies/?keywords=${encoded}`,
+      `https://www.linkedin.com/search/results/companies/?companyHqGeo=%5B%22105015875%22%5D&geoUrn=%5B%22101314642%22%5D&keywords=${encoded}&origin=FACETED_SEARCH&lang=fr`,
       `https://www.google.com/search?q=${encoded}+site:infonet.fr`
     ];
   }
